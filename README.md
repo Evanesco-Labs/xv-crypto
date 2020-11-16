@@ -1,13 +1,6 @@
 # xv-crypto
 Core crypto algorithm in xv-core framework
 
-## Docs
-
-The docs contained in this repository are:
-
-- papers
-- details of implemetation
-- algorithm proposals  
 
 ## Examples
 
