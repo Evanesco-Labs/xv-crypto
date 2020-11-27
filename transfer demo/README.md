@@ -37,10 +37,12 @@ We first start the Smart Contract Service which uses port 3040 by default. We ca
 Generating a new account needs to enter a seed string used to generate random numbers with flag `seed`.
 
 ```shell
-./demo genacc -seed NiHao
+./demo genacc -seed Hello
 ```
 
-After entering the command, in the window we should see the profile of the generated account, and let's call her Alice. The profile includes her public and private keys, the two balances, and the commitment corresponding to the Secret Balance.
+After entering the command, in the window we should see the profile of the generated account, and let's call her Alice. The profile includes her public and private keys, the two balances, and the commitment corresponding to the Secret Balance. 
+
+*The output key on your window maybe different.*
 
 ```shell
 PublicKey: G7JFAJ9j7UctXxasG3n6Lieebd9VL3f4GWXEQ3imUcxF
