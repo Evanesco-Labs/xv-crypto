@@ -3,7 +3,7 @@ package confidential
 import (
 	"crypto/sha512"
 	"encoding/binary"
-	"github.com/calehh/ristretto255"
+	"github.com/Evanesco-Labs/ristretto255"
 	"golang.org/x/crypto/blake2s"
 	"io"
 )

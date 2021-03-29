@@ -3,7 +3,7 @@ package confidential
 import (
 	"crypto/sha256"
 	"fmt"
-	"github.com/calehh/ristretto255"
+	"github.com/Evanesco-Labs/ristretto255"
 	"sync"
 )
 

@@ -2,7 +2,7 @@ package confidential
 
 import (
 	"errors"
-	"github.com/calehh/ristretto255"
+	"github.com/Evanesco-Labs/ristretto255"
 )
 const RANGEPROOFCOUNT = 2
 var GHXOFSeed = []byte("innerproduct rangeproof")

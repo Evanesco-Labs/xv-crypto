@@ -2,7 +2,7 @@ package confidential
 
 import (
 	"crypto/sha256"
-	"github.com/calehh/ristretto255"
+	"github.com/Evanesco-Labs/ristretto255"
 )
 
 type Account struct {
